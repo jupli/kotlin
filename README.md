@@ -1,2 +1,1 @@
-# Muvyz
- Movie application
+Kotlin Testing for cinemas application
